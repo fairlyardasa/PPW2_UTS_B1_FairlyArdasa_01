@@ -12,7 +12,7 @@
         @foreach($pemains as $pemain)
         <tr>
             <td>{{$pemain -> id}}</td>
-            <td>{{$pemain -> nama_barang}}</td>
+            <td>{{$pemain -> nama_pemain}}</td>
             <td>{{$pemain -> no_punggung}}</td>
             <td>{{$pemain -> posisi}}</td>
             <td class="d-flex flex-row gap-1">

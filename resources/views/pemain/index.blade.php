@@ -1,6 +1,6 @@
 @extends('pemain.layout')
 
-@section('tittle', 'Daftar Barang')
+@section('tittle', 'Daftar Pemain')
 
 @section('header-text')
 <h1>Daftar Pemain</h1>
